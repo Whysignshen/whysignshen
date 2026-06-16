@@ -1,20 +1,20 @@
 <div align="center">
 
-# Hello, Saya Niko Last Ismail
+# Halo, Saya Niko Last Ismail
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&lines=+Developer+from+Sabah!;Cybersecurity+&+AI+Architect;" alt="Typing Effect" />
+### Cybersecurity & Technology Specialist
 
 ---
 
 ### Perjalanan Saya
-Saya adalah seorang Independence Developer & Tech Specialist dari Sabah, Malaysia. saya Bermula pada tahun 2016 (Samsung Hello Kitty), yang saya ubah suai dan membina kepakaran secara self-taught. Kini saya fokus meneroka masa depan teknologi melalui Cybersecurity dan Artificial Intelligence.
+Saya adalah seorang Independence Developer & Tech Specialist dari Sabah, Malaysia. Bermula pada tahun 2016 (Samsung Hello Kitty), saya membina kepakaran secara *self-taught* tanpa pendidikan tinggi formal. Kini saya fokus meneroka masa depan teknologi melalui Cybersecurity dan Artificial Intelligence.
 
 ---
 
 ### Teknologi & Kemahiran
 <img src="https://skillicons.dev/icons?i=js,react,nextjs,python,linux,git,vscode,ai" alt="Tech Stack" />
 
-* **Cybersecurity:** Fokus kepada keselamatan rangkaian & sistem pertahanan.
+* **Cybersecurity:** Fokus kepada etika hacking, keselamatan rangkaian & sistem pertahanan.
 * **Artificial Intelligence:** Membina inovasi melalui Machine Learning & LLMs.
 * **Pengaturcaraan:** Web Development & automasi kod yang efisien.
 * **Servis Perkakasan:** Pakar dalam baik pulih Android, iPhone, Laptop, dan PC.
