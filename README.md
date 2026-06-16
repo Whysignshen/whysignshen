@@ -2,7 +2,7 @@
 # 👋 Halo, Saya Niko Last Ismail!
 
 ## 🚀 Tentang Saya
-- 🌱 Sedang belajar **coding**
+- 🌱 Sedang belajar **programmer** **coding**
 - 💻 Suka eksplorasi teknologi baru
 - 📍 Sabah Malaysia
 
