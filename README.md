@@ -1,13 +1,20 @@
 <div align="center">
 
-# Halo, Saya Niko Last Ismail
+# hello, Saya Niko Last Ismail
 
-### Cybersecurity & Technology Specialist
+<!-- Animasi Tajuk -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&lines=Independence+Developer;Cybersecurity+&+AI+Architect;Linux+Enthusiast;" alt="Typing Effect" />
+
+<!-- Animasi Logo Linux -->
+<br>
+<img src="https://skillicons.dev/icons?i=linux" width="80" alt="Linux Logo" />
+<br>
 
 ---
 
 ### Perjalanan Saya
-Saya adalah seorang Independence Developer & Tech Specialist dari Sabah, Malaysia. Bermula pada tahun 2016 (Samsung Hello Kitty), saya membina kepakaran secara *self-taught* tanpa pendidikan tinggi formal. Kini saya fokus meneroka masa depan teknologi melalui Cybersecurity dan Artificial Intelligence.
+saya berusia 23 tahun berasal dari sabah tuaran kota kinabalu
+Saya adalah seorang Independence Developer & Tech Specialist dari Sabah, Malaysia. Bermula pada tahun 2016 (Samsung Hello Kitty),yang saya ubah suai pada masa itu.. saya kini membina kepakaran secara *self-taught*. Kini saya fokus meneroka masa depan teknologi melalui Cybersecurity dan Artificial Intelligence.
 
 ---
 
