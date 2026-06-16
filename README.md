@@ -1,13 +1,13 @@
 <div align="center">
 
-# Halo, Saya Niko Last Ismail!
+# Hello, Saya Niko Last Ismail
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&lines=Independence+Developer+from+Sabah!;Cybersecurity+&+AI+Architect;" alt="Typing Effect" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&lines=+Developer+from+Sabah!;Cybersecurity+&+AI+Architect;" alt="Typing Effect" />
 
 ---
 
 ### Perjalanan Saya
-Saya adalah seorang Independence Developer & Tech Specialist dari Sabah, Malaysia. Bermula pada tahun 2016 (Samsung Hello Kitty), saya membina kepakaran secara self-taught. Kini saya fokus meneroka masa depan teknologi melalui Cybersecurity dan Artificial Intelligence.
+Saya adalah seorang Independence Developer & Tech Specialist dari Sabah, Malaysia. saya Bermula pada tahun 2016 (Samsung Hello Kitty), yang saya ubah suai dan membina kepakaran secara self-taught. Kini saya fokus meneroka masa depan teknologi melalui Cybersecurity dan Artificial Intelligence.
 
 ---
 
