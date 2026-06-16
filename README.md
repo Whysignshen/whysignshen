@@ -47,7 +47,6 @@ Saya adalah seorang Independence Developer & Tech Specialist dari Sabah, Malaysi
 </div>
 <!-- Bahagian Gambar Peribadi -->
 <div align="center">
-  <img src="IMG_20260614_171055_160.jpg" width="250" style="border-radius: 10px;" />
   <img src="IMG_20260616_180428.jpg" width="250" style="border-radius: 10px;" />
 </div>
 <br>
