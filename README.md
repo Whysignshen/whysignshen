@@ -29,11 +29,6 @@ Saya adalah seorang Independence Developer & Tech Specialist dari Sabah, Malaysi
 
 ---
 
-### Statistik GitHub
-<img src="https://github-readme-stats.vercel.app/api?username=Whysignshen&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats" />
-
----
-
 ### Mari Berhubung
 <br>
 <a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
