@@ -1,28 +1,22 @@
-<!-- ========================= -->
-
-<!-- NIKO LAST ISMAIL PROFILE -->
-
-<!-- ========================= -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FF88&center=true&vCenter=true&width=1000&lines=Hi+I'm+Niko+Last+Ismail;Self-Taught+Programmer;Linux+Enthusiast;Cybersecurity+Learner;Android+Researcher;Welcome+To+My+Github+Profile" />
-</h1>
-
-<h3 align="center">
-ð²ð¾ Tuaran, Sabah, Malaysia
-</h3>
+<h1 align="center">Niko Last Ismail</h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=whysignshen&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Self-Taught+Programmer;Linux+Enthusiast;Cybersecurity+Learner;Android+Researcher;Welcome+To+My+Github+Profile"/>
+</p>
+
+<h3 align="center">Tuaran, Sabah, Malaysia</h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Whysignshen&label=Profile+Views&style=for-the-badge"/>
 </p>
 
 ---
 
-# ð¨âð» About Me
+# About Me
 
-Hello World ð
+Hello World,
 
-Saya **Niko Last Ismail**, berumur **23 tahun**, berasal dari **Tuaran, Sabah, Malaysia**.
+Saya **Niko Last Ismail**, berumur **23 tahun** dan berasal dari **Tuaran, Sabah, Malaysia**.
 
 Saya tidak pernah mendapat pendidikan formal dalam bidang teknologi.
 
@@ -30,41 +24,34 @@ Segala ilmu yang saya miliki hari ini diperoleh melalui pengalaman sendiri, eksp
 
 ---
 
-# ð My Journey
+# My Journey
 
 Perjalanan teknologi saya bermula sejak zaman:
 
-ð± Nokia
-
-ð± Sony Ericsson
-
-ð± Motorola
-
-ð± BlackBerry
+* Nokia
+* Sony Ericsson
+* Motorola
+* BlackBerry
 
 Sebelum Android skrin sentuh menjadi popular, saya telah lama menggunakan pelbagai jenis peranti dan sentiasa ingin mengetahui bagaimana sesuatu sistem berfungsi.
 
 ---
 
-# ð First Android Flash
+# First Android Flash
 
 Pada tahun 2016 saya berjaya melakukan proses flash pertama saya.
 
 Peranti pertama:
 
-ð± Samsung Galaxy Hello Kitty
+**Samsung Galaxy Hello Kitty**
 
 Saya berjaya:
 
-â Unlock System
-
-â Flash Firmware
-
-â Install TWRP
-
-â Install Custom ROM
-
-â Root Android
+* Unlock System
+* Flash Firmware
+* Install TWRP
+* Install Custom ROM
+* Root Android
 
 Tanpa PC.
 
@@ -78,7 +65,7 @@ Hanya melalui eksplorasi dan eksperimen sendiri.
 
 ---
 
-# ð§ Android Research Era
+# Android Research Era
 
 Selepas itu saya mula melakukan eksperimen terhadap hampir semua Android yang saya miliki.
 
@@ -101,7 +88,7 @@ Daripada situ saya memahami dunia Android dengan lebih mendalam.
 
 ---
 
-# ð§ Linux Discovery
+# Linux Discovery
 
 Android membuka jalan untuk saya mengenali Linux.
 
@@ -118,7 +105,7 @@ Linux mengubah cara saya melihat teknologi.
 
 ---
 
-# ð Cybersecurity
+# Cybersecurity
 
 Selepas mengenali Linux saya mula mendalami:
 
@@ -133,7 +120,7 @@ Kini saya terus mempelajari dunia keselamatan siber secara berterusan.
 
 ---
 
-# ð» Programming
+# Programming
 
 Cybersecurity membawa saya mengenali dunia pengaturcaraan.
 
@@ -150,87 +137,59 @@ Saya percaya coding adalah alat untuk memahami dan membina teknologi.
 
 ---
 
-# âï¸ Tech Stack
+# Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,kali,bash,python,html,css,javascript,git,github,mysql,vscode,debian,ubuntu"/>
-
+<img src="https://skillicons.dev/icons?i=linux,bash,python,html,css,js,git,github,vscode,debian"/>
 </p>
 
 ---
 
-# ð GitHub Stats
+# GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=whysignshen&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whysignshen&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Whysignshen&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
 
-# ð¥ Streak Stats
+# Top Languages
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=whysignshen&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whysignshen&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# ð Activity Graph
+# Streak Stats
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=whysignshen&theme=tokyo-night"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Whysignshen&theme=tokyonight"/>
 </p>
 
 ---
 
-# ð GitHub Trophy
+# Activity Graph
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=whysignshen&theme=algolia&column=7"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Whysignshen&theme=tokyo-night"/>
 </p>
 
 ---
 
-# ð Contribution Snake Animation
+# Current Focus
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# ð¯ Current Focus
-
-ð¹ Linux
-
-ð¹ Kali Linux
-
-ð¹ Android Research
-
-ð¹ Cybersecurity
-
-ð¹ Ethical Hacking
-
-ð¹ Python Automation
-
-ð¹ Open Source
+* Linux
+* Kali Linux
+* Android Research
+* Cybersecurity
+* Ethical Hacking
+* Python Automation
+* Open Source
 
 ---
 
-# ð Connect
+# Connect
 
 GitHub:
 
@@ -238,18 +197,21 @@ https://github.com/Whysignshen
 
 ---
 
-# ð¡ Philosophy
+# Philosophy
 
-> "Saya tidak belajar melalui sekolah. Saya belajar melalui rasa ingin tahu, eksperimen, kegagalan dan pengalaman sebenar."
+> Saya tidak belajar melalui sekolah. Saya belajar melalui rasa ingin tahu, eksperimen, kegagalan dan pengalaman sebenar.
 
 ---
 
-# â¡ Fun Fact
+# Fun Fact
 
-ð  Saya belajar teknologi melalui telefon bimbit.
+* Belajar teknologi menggunakan telefon bimbit
+* Linux mengubah cara saya berfikir
+* Cybersecurity membuka perspektif baru tentang teknologi
+* Coding membantu saya memahami bagaimana sistem dibina
 
-ð§ Linux mengubah cara saya berfikir.
+---
 
-ð Cybersecurity membuka perspektif baru tentang teknologi.
-
-ð» Coding membantu saya me
+<h3 align="center">
+Never Stop Learning
+</h3>
