@@ -12,3 +12,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=250&section=header&text=Niko%20Last%20Ismail&fontSize=50&fontColor=ffffff"/>
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,html,css,js,git,github,vscode,docker,debian,android,vim,mysql,sqlite,postman"/>
+</p>
