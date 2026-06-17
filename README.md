@@ -54,18 +54,18 @@ No formal degree - just curiosity, failures, and real projects.
 ### Connect With Me
 <p align="center">
   <a href="https://tiktok.com/@username_kau" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tiktok" alt="TikTok" height="40"/>
+    <img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
-  <a href="https://wa.me/60XXXXXXXXX" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp" height="40"/>
+  <a href="https://wa.me/60123456789" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://facebook.com/username_kau" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/username_kau" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://wikipedia.org/wiki/Username_kau" target="_blank">
-    <img src="https://skillicons.dev/icons?i=wikipedia" alt="Wikipedia" height="40"/>
+    <img src="https://img.shields.io/badge/Wikipedia-000?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Wikipedia"/>
   </a>
 </p>
