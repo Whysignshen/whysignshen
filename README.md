@@ -50,3 +50,22 @@ No formal degree - just curiosity, failures, and real projects.
 
 ---
 *Philosophy: "Saya tidak belajar melalui sekolah. Saya belajar melalui rasa ingin tahu, eksperimen, kegagalan dan pengalaman sebenar."*
+
+### Connect With Me
+<p align="center">
+  <a href="https://tiktok.com/@username_kau" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tiktok" alt="TikTok" height="40"/>
+  </a>
+  <a href="https://wa.me/60XXXXXXXXX" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp" height="40"/>
+  </a>
+  <a href="https://facebook.com/username_kau" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40"/>
+  </a>
+  <a href="https://instagram.com/username_kau" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/>
+  </a>
+  <a href="https://wikipedia.org/wiki/Username_kau" target="_blank">
+    <img src="https://skillicons.dev/icons?i=wikipedia" alt="Wikipedia" height="40"/>
+  </a>
+</p>
