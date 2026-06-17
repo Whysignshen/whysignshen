@@ -7,10 +7,3 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Hi+I'm+Niko+Last+Ismail;Self-Taught+Programmer;Linux+Enthusiast;Cybersecurity+Learner;Android+Researcher">
 </h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=whysignshen&style=for-the-badge&color=blue">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=50,150,250,250&text=Niko%20Last%20Ismail&fontColor=ffffff&fontSize=55&animation=twinkling&fontAlignY=38&desc=Linux%20%7C%20Cybersecurity%20%7C%20Programming&descAlignY=60"/>
-</p>
