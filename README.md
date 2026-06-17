@@ -4,20 +4,10 @@
 
 ---
 
-### **Kisah Saya Bermula**
-
-Saya berumur 23 tahun.  
-**Saya tak pernah pergi sekolah.**
-
-Saya belajar membaca dan menulis sendiri melalui telefon Android pertama saya.  
-Telefon pertama saya: **Nokia, Motorola, Sony Ericsson, BlackBerry, LTS, dan Samsung Hello Kitty.**
-
-Pada tahun **2016**, saya mula ubah suai telefon tu sendiri.  
-Flash ROM, install TWRP, root, unlock bootloader â semua **tanpa PC atau laptop**.  
-Semua buat terus dari telefon.
-
-Dari situ saya kenal apa itu sistem, apa itu root, apa itu Linux.  
-Dari budak yang nak tukar wallpaper Hello Kitty, jadi budak yang curious pasal cara sistem tu berfungsi sampai hari ni.
+<!-- Section 1: Kisah Saya Bermula -->
+<p align="center">
+  <img src="LINK_GIF_1" width="100%" alt="Kisah Saya Bermula Animation"/>
+</p>
 
 ---
 
