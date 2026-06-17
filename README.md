@@ -1,47 +1,96 @@
-<div align="center">
-
-# hello, Saya Niko Last Ismail
-
-<!-- Animasi Tajuk -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&lines=Independence+Developer;Cybersecurity+&+AI+Architect;Linux+Enthusiast;" alt="Typing Effect" />
-
-<!-- Animasi Logo Linux -->
-<br>
-<img src="https://skillicons.dev/icons?i=linux" width="80" alt="Linux Logo" />
-<br>
+<h1 align="center">Hi, I'm Niko Last Ismail</h1>
+<h3 align="center">Independent Developer | Phone Repair Specialist | Self-Taught Programmer</h3>
+<h4 align="center">Tuaran, Kota Kinabalu, Sabah, Malaysia</h4>
 
 ---
 
-### Perjalanan Saya
-saya berusia 23 tahun berasal dari sabah tuaran kota kinabalu
-Saya adalah seorang Independence Developer & Tech Specialist dari Sabah, Malaysia. Bermula pada tahun 2016 (Samsung Hello Kitty),yang saya ubah suai pada masa itu.. saya kini membina kepakaran secara *self-taught*. Kini saya fokus meneroka masa depan teknologi melalui Cybersecurity dan Artificial Intelligence.
+### **Kisah Saya Bermula**
+
+Saya berumur 23 tahun.  
+**Saya tak pernah pergi sekolah.**
+
+Saya belajar membaca dan menulis sendiri melalui telefon Android pertama saya.  
+Telefon pertama saya: **Nokia, Motorola, Sony Ericsson, BlackBerry, LTS, dan Samsung Hello Kitty.**
+
+Pada tahun **2016**, saya mula ubah suai telefon tu sendiri.  
+Flash ROM, install TWRP, root, unlock bootloader â semua **tanpa PC atau laptop**.  
+Semua buat terus dari telefon.
+
+Dari situ saya kenal apa itu sistem, apa itu root, apa itu Linux.  
+Dari budak yang nak tukar wallpaper Hello Kitty, jadi budak yang curious pasal cara sistem tu berfungsi sampai hari ni.
 
 ---
 
-### Teknologi & Kemahiran
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,python,linux,git,vscode,ai" alt="Tech Stack" />
+### **Apa Saya Buat Sekarang**
 
-* **Cybersecurity:** Fokus kepada etika hacking, keselamatan rangkaian & sistem pertahanan.
-* **Artificial Intelligence:** Membina inovasi melalui Machine Learning & LLMs.
-* **Pengaturcaraan:** Web Development & automasi kod yang efisien.
-* **Servis Perkakasan:** Pakar dalam baik pulih Android, iPhone, Laptop, dan PC.
-* **Bahasa:** Memelihara warisan bahasa suku melalui teknologi digital.
+#### 1. **Repair Telefon - Hardware & Software**
+Service saya boleh perbaiki telefon dari luar sampai dalam, termasuk system telefon:
+- Repair hardware luar & dalam: skrin, battery, port charging, motherboard level basic
+- Diagnose & fix: bootloop, bricked, mati total, no signal, FRP lock
+- Flash, unbrick, restore IMEI
+
+#### 2. **Android Modification - Dari Biasa Jadi Luar Biasa**
+Saya boleh modified Android menjadi biasa jadi luas biasa yang tidak diketahui oleh pengguna biasa:
+- **Unlock Bootloader (UBL)** & **Root**
+- **Flash pelbagai jenis ROM**: LineageOS, Pixel Experience, MIUI Port, EvolutionX, dsb
+- **Install TWRP/OrangeFox** tanpa PC
+- **Install pelbagai jenis system di Android**: Kali Nethunter, postmarketOS, Linux distro
+- Custom Kernel, Magisk Modules, Debloat System, optimize performance & battery
+
+#### 3. **Programming - Pelajar Coding Tanpa Cikgu**
+Saya pelajar programmer coding tanpa cikgu.  
+Hanya menghandalkan AI untuk belajar Python, JavaScript, React, Node.js, Bash, Linux.
+
+Project sekarang: **RepairTrack** - sistem tracking repair phone untuk bengkel.
+
+#### 4. **Bantu & Belajar Dengan AI**
+Saya juga ingin membantu AI. 
+- Guna AI untuk belajar coding & troubleshooting
+- Test AI untuk kes cybersecurity & repair hardware
+- Kumpul data real-world dari repair untuk improve model AI
+- Bina tools kecil supaya AI lebih berguna untuk technician
 
 ---
 
-### Mari Berhubung
-<br>
-<a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://t.me/YOUR_USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://facebook.com/YOUR_FB_USERNAME"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://tiktok.com/@YOUR_TIKTOK_USERNAME"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+### **Kenapa Saya Lain**
 
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=Whysignshen&label=Pelawat&color=00ff00&style=flat" alt="Visitor Count" />
+Kebanyakan orang belajar teori dulu. Saya rosakkan phone dulu, baru cari cara fix.  
+Trial, error, rosakkan phone, fix balik, ulang. Itu cara saya belajar.
 
-</div>
-<!-- Bahagian Gambar Peribadi -->
-<div align="center">
-  <img src="2026.png" width="250" style="border-radius: 10px;" />
-  </div>
-<br>
+Teknologi patut dibuka untuk semua orang, bukan hanya orang yang pergi sekolah.
+
+---
+
+### **Motto**
+> "Rosak kan dulu, baru tahu cara fix."
+
+**Status:** Available for remote consult, repair guide, custom ROM setup, freelance project  
+**Lokasi:** Sabah, Malaysia
+
+---
+
+### **Connect With Me**
+<p align="left">
+  <a href="https://wa.me/your-number"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://t.me/your-username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="your-facebook-link"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="your-tiktok-link"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+</p>
+
+---
+
+### **Tech Stack**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,python,linux,android,git,bash,vscode" />
+</p>
+
+---
+
+### **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Whysignshen&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Whysignshen.Whysignshen" alt="visitor badge"/>
+</
