@@ -26,7 +26,8 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=whysignshen&theme=tokyo-night"/>
 </p>
-## ð¯ Current Focus
+
+ Current Focus
 
 - Linux
 - Kali Linux
