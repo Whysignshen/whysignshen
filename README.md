@@ -9,63 +9,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=whysignshen&style=for-the-badge">
 </p>
-
----
-
-### About Me
-Self-taught programmer and Linux enthusiast from Sabah, Malaysia. 
-I build tools, automate tasks, and learn cybersecurity through hands-on labs.
-No formal degree - just curiosity, failures, and real projects.
-
-### Projects
-**1. Kali Auto Setup** 
-- Bash script to install 20+ pentest tools in one command
-- [View Code](link-repo-kau-di-sini)
-
-**2. Log Analyzer** 
-- Python script to parse auth.log and detect brute force attempts
-- [View Code](link-repo-kau-di-sini)
-
-**3. Home Lab Automation**
-- Scripts to setup KVM virtual lab for cybersecurity practice
-- [View Code](link-repo-kau-di-sini)
-
-> Tambah 2-3 project sebenar kau. Kalau belum ada, buat 1 script simple minggu ni dan upload.
-
-### Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,kali,bash,python,html,css,javascript,git,github,mysql,vscode,debian,ubuntu"/>
-</p>
-
-### GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=whysignshen&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=whysignshen&theme=tokyonight"/>
-</p>
-
-### Contact
-- Telegram: @username_kau
-- Email: email_kau@gmail.com
-- Open for: Linux admin, scripting, basic pentest, automation work
-
----
-*Philosophy: "Saya tidak belajar melalui sekolah. Saya belajar melalui rasa ingin tahu, eksperimen, kegagalan dan pengalaman sebenar."*
-
-### Connect With Me
-<p align="center">
-  <a href="https://tiktok.com/@username_kau" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
-  <a href="https://wa.me/60123456789" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://facebook.com/username_kau" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/username_kau" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://wikipedia.org/wiki/Username_kau" target="_blank">
-    <img src="https://img.shields.io/badge/Wikipedia-000?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Wikipedia"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=250&section=header&text=Niko%20Last%20Ismail&fontSize=50&fontColor=ffffff"/>
 </p>
