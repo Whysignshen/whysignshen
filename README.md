@@ -27,11 +27,15 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=whysignshen&theme=tokyo-night"/>
 </p>
 
- Current Focus
+Philosophy
 
-- Linux
-- Kali Linux
-- Android Research
-- Cybersecurity
-- Ethical Hacking
-- Python
+> Saya tidak belajar melalui sekolah. Saya belajar melalui rasa ingin tahu, eksperimen, kegagalan dan pengalaman sebenar.
+
+---
+
+Fun Fact
+
+* Belajar teknologi menggunakan telefon bimbit
+* Linux mengubah cara saya berfikir
+* Cybersecurity membuka perspektif baru tentang teknologi
+* Coding membantu saya memahami bagaimana sistem dibina
